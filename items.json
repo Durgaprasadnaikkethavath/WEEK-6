@@ -1,0 +1,22 @@
+{
+  "name": "Apple",
+  "foodGroup": "Fruits",
+  "description": "A sweet fruit",
+  "nutritionalInfo": {
+    "calories": 95,
+    "protein": 0.5,
+    "fat": 0.3,
+    "carbs": 25,
+    "sugar": 19
+  },
+  "servingSize": "1 medium apple",
+  "allergens": [],
+  "ingredients": ["Apple"],
+  "preparationMethods": ["Raw"],
+  "certifications": ["Organic"],
+  "countryOfOrigin": "USA",
+  "brand": "Nature's Best",
+  "dietaryRestrictions": ["Vegan", "Gluten-Free"],
+  "healthBenefits": ["Good for digestion", "Rich in fiber"],
+  "bestPractices": "Store in a cool, dry place"
+}
